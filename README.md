@@ -62,5 +62,3 @@ Contributions are welcome!
 - Commit changes  
 - Open a Pull Request  
 
-
-👉 Do you want me to also add **sample output plots/screenshots** (like histograms or scatter plots) into the README so visitors immediately see what the notebook produces?
